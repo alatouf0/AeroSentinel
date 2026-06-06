@@ -3,8 +3,8 @@ from datetime import datetime
 
 st.set_page_config(page_title="AeroReg Control", page_icon="🛩️", layout="wide")
 
-st.title("🛩️ AeroReg Control")
-st.caption("Real-Time UAV Compliance, Safety & Violation Prevention Prototype")
+st.title("🛡️AeroSentinel Control")
+st.caption("Real-Time UAV Compliance, Safety & Violation Prevention System")
 
 # -----------------------------
 # Regulatory thresholds
