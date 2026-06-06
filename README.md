@@ -18,23 +18,7 @@ AeroReg Control is a Streamlit-based prototype for real-time UAV regulatory comp
 - Educational explain mode
 - Compliance log
 
-## Run Locally
 
-Install requirements:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the app:
-
-```bash
-python -m streamlit run app.py
-```
-
-## Deployment
-
-Upload these files to a GitHub repository and deploy using Streamlit Community Cloud.
 
 ## Disclaimer
 
