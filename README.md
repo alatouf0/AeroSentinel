@@ -1,4 +1,4 @@
-# AeroReg Control Prototype
+# AeroSentinel Control Prototype
 
 AeroReg Control is a Streamlit-based prototype for real-time UAV regulatory compliance, safety monitoring, and violation prevention.
 
